@@ -2,7 +2,7 @@
 
 ## Subsection
 
-Exciting documentation in here.
+Exciting documentation will soon be in here.
 Let's make a list (empty surrounding lines required):
 
 - item 1
